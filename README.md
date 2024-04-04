@@ -11,6 +11,31 @@
 1. Accede a la URL de tu sitio web seguido de "/wp-admin", por ejemplo: `http://tusitio.com/wp-admin`.
 2. Ingresa tus credenciales de administrador (nombre de usuario y contraseña) y haz clic en "Iniciar sesión".
 
+## ¿Qué es Gutenberg en WordPress?
+Gutenberg es el editor de bloques predeterminado en WordPress desde la versión 5.0. Proporciona una experiencia de edición moderna basada en bloques, lo que permite a los usuarios crear y personalizar el contenido de sus sitios web de manera más intuitiva.
+
+## Uso Básico de Gutenberg:
+
+### Agregar Bloques:
+- Haz clic en el símbolo "+" en la parte superior izquierda del editor o presiona "/" para abrir el selector de bloques.
+- Selecciona el tipo de bloque que deseas agregar, como un párrafo, una imagen, una lista, un encabezado, etc.
+
+### Editar Bloques:
+- Haz clic en un bloque existente para seleccionarlo y ver las opciones de edición disponibles.
+- Utiliza el panel lateral derecho para configurar las opciones específicas del bloque, como el texto, la imagen, los ajustes de estilo, etc.
+
+### Reorganizar Bloques:
+- Arrastra y suelta los bloques para cambiar su orden en la página.
+- Haz clic en el icono de seis puntos en la parte superior izquierda del bloque y arrástralo a la ubicación deseada.
+
+### Eliminar Bloques:
+- Haz clic en el icono de tres puntos en la esquina superior derecha del bloque y selecciona "Eliminar bloque" para eliminar un bloque.
+
+## Consejos Adicionales:
+- Utiliza la barra de herramientas superior para cambiar el tipo de bloque, deshacer o rehacer acciones, y otras funciones útiles.
+- Explora la amplia variedad de bloques disponibles en Gutenberg para agregar diferentes tipos de contenido y funcionalidades a tus páginas y entradas.
+- Si necesitas más ayuda, WordPress ofrece tutoriales detallados y documentación en su sitio web oficial.
+
 ## Páginas y Entradas:
 
 ### Páginas:
